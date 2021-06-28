@@ -1,1 +1,2 @@
 Test for file2
+test 2 for file2
